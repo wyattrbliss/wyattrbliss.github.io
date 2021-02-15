@@ -11,7 +11,7 @@ function HomePage(props) {
         <h1 className="introduction">Hi, I'm Wyatt Bliss</h1>
         <p className="intro-description"> I'm a Computer Science student at Northeastern University. I enjoy
         frontend programming, watching sports such as basketball or hockey, working on my car and
-        playing video games like World of Warcraft.
+        playing video games.
         </p>
       </div>
 
